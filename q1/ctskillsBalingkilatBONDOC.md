@@ -1,6 +1,6 @@
 Section: 9 Balingkilat                      Score:____________
 
-C# / Name: #19 / Lyrie Bondoc               Date: 08/08/26
+C# / Name: 19 / Lyrie Bondoc               Date: 08/08/26
 
 
 Scenario
