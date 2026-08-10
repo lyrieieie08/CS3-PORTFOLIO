@@ -14,24 +14,16 @@ Your group’s task is to decompose this problem into smaller, manageable parts 
 
 Step 1: Identify the Big Problem
 
-Main Problem: _____________________________________________________
-_________________________________________________________________
-_________________________________________________________________
+Main Problem: The transactions in the canteen are slow and inefficient.
 
 Step 2: Identify three to four Sub-Problems
 Please list possible sub-problems:
 
-1. ___________________________________________________________
-_____________________________________________________________
+1. Some students take too long to decide what to order. ---  some students are indecisive
 
-2. ___________________________________________________________
-_____________________________________________________________
+2. The cashier has to manually calculate totals and give change. --- manual calculations per checkout.
 
-3. ___________________________________________________________
-_____________________________________________________________
-
-4. ___________________________________________________________
-_____________________________________________________________
+3. There is no system to track which food items are running out. --- no inventory registry to check available stock.
 
 Step 3: Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
