@@ -28,10 +28,16 @@ Please list possible sub-problems:
 Step 3: Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
 
-Sub-Problem
+Sub-Problem 1: 
+CT Skill: Pattern Recognition
+Example Solution: Post the menus digitally so that the students can view them anytime more quickly and efficiently.
 
-CT Skill
+Sub-Problem 2:
+CT Skill: Algorithmic Thinking 
+Example Solution: Make a program that automatically calculates the total cost and amount of change.
 
-Example Solution
+Sub-Problem 3:
+CT Skill: Algorithmic Thinking
+Example Solution: Create a system that tracks the quantity of each item and automatically updates the stock after every purchase.
 
- Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
+Step 4: Draw a flowchart or write pseudocode for the identified sub-problem
