@@ -41,3 +41,26 @@ CT Skill: Algorithmic Thinking |
 Example Solution: Create a system that tracks the quantity of each item and automatically updates the stock after every purchase.
 
 Step 4: Draw a flowchart or write pseudocode for the identified sub-problem
+START
+
+INPUT NumOfItems
+
+SET TotalCost TO 0
+
+REPEAT
+	INPUT ItemPrice
+	SET TotalCost TO TotalCost + ItemPrice
+	SET NumOfItems TO NumOfItems - 1
+UNTIL NumOfItems = 0
+	
+DISPLAY TotalCost
+	
+DISPLAY “Total Change”
+
+INPUT MoneyGave
+
+SET TotalChange TO MoneyGave - TotalCost
+
+DISPLAY TotalChange
+
+END
