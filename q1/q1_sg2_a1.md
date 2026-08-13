@@ -19,7 +19,7 @@ Main Problem: The transactions in the canteen are slow and inefficient.
 Step 2: Identify three to four Sub-Problems
 Please list possible sub-problems:
 
-1. Some students take too long to decide what to order. ---  some students are indecisive
+1. Some students take too long to decide what to order. ---  some students are indecisive, hindering transactions.
 
 2. The cashier has to calculate totals and give change manually. --- manual calculations per checkout.
 
