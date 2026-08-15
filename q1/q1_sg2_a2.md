@@ -56,22 +56,14 @@ EndAlgorithm
 1. Efficiency
 Which algorithm is faster when the list of numbers is very large? Why?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+   The faster algorithm would likely end up being pseudocode 1, as it utilizes a simpler, more straightforward code using only one nested loop with fewer steps that pseudocode 2.
 
 
 2. Readability
 
 Which algorithm is easier to understand at first glance? What makes it clearer?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+   At a glance, Pseudocode 1 is shorter in terms of text and the variable names are considerably easier to understand and descriptive than Pseudocode 2. The logic is also simpler for pseudocode 1, it will sort through the given list of numbers in increasing order and stopping once there are no more higher numbers, all in a few lines of code, unlike the expanded Pseudocode 2.
 
 
 3. Maintainability
