@@ -69,22 +69,12 @@ Which algorithm is easier to understand at first glance? What makes it clearer?
 3. Maintainability
 If you had to add a new feature (like finding both max and min), which algorithm would be easier to update? Why?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
-
-
-4. Testability
+   If I had to add a new feature, PseudoCode 1 would be easier to update. The structure is more straightforward, adding new steps won’t break the code easily, and there is less chance of errors when updating, proving that it is easier to update and maintain compared to PseudoCode 2 who does not really fulfill all those requirements.
+   
+5. Testability
 Which algorithm is easier to test with different inputs? Why?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
-
+I can test PseudoCode 1 more easily, it has fewer conditions to check, and the output is more predictable and clear, making PseudoCode 1 easier to test with different inputs as compared to PseudoCode 2.
 
 5. Security
 Imagine the input list comes from a user. What should the algorithm check to avoid errors or misuse?
