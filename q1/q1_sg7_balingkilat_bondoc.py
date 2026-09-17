@@ -20,9 +20,10 @@ class Tray:
         ]
     def display(self):
         print("the tray contains 5 beakers:")
+        print() 
         for i, beaker in enumerate(self.beakers, 1):
             print("beaker", i, "has the capacity:", beaker.capacity, "mL and is made with:", beaker.composition)
-
+            print() 
 
 
 tray = Tray()
