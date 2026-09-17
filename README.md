@@ -1,7 +1,7 @@
 # CS3-PORTFOLIO
 
-#Q1
-<ACTIVITIES>
+# Q1
+! ACTIVITIES !
 * https://github.com/lyrieieie08/CS3-PORTFOLIO/blob/main/q1/q1_sg2_a1.md
 
 * https://github.com/lyrieieie08/CS3-PORTFOLIO/blob/main/q1/q1_sg2_a2.md
@@ -14,7 +14,7 @@
 
 * https://github.com/lyrieieie08/CS3-PORTFOLIO/blob/main/q1_sg7_balingkilat_bondoc.py
 
-<SAMPLE>
+! SAMPLE !
 
 * https://github.com/lyrieieie08/CS3-PORTFOLIO/blob/main/q1/q1_mycar_balingkilat_Bondoc.py
 
