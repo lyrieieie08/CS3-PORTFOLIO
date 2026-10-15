@@ -1,0 +1,34 @@
+class Publication:
+    def __init__(self, title, author):
+        self.__title = title
+        self.__author = author
+    def get_title():
+        return self.title
+    def get_author():
+        return self.author
+    def set_title(title):
+        self.title = title
+    def set_author(author):
+        sel.author = author
+    def display_info():
+        print
+
+class Book(Publication):
+    def __init__(self, title, author, number_of_pages: int):
+        super().__init__(title, author)
+        self.number_of_pages=0
+        self.set_number_of_pages(number_of_pages)
+    def get_number_of_pages(self):
+        return self.number_of_pages
+    def set_number_of_pages(self, number_of_pages: int):
+        if number_of_pages <= 0:
+            print("The number of pages must be positive")
+        else:
+            self.number_of_pages = number_of_pages
+    def display_info(self):
+        super().display_info()
+        print("Number of pages:", self.number_of_pages)
+    
+
+
+class Magazine(Publication): 
