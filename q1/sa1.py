@@ -24,3 +24,27 @@ class SavingsAccount(Account):
     def addInterest(self):
         #super().__balance += super().__balance()*self.__interest
         interestToAdd = super().getBalance() * self.__interest
+        super().deposit(interestToAdd)
+
+class Bank:
+    name=""
+    __accounts = []
+    def __init__(self,name):
+        print("Welcome to", self.name)
+    def openAccount(self):
+        print("Ready to open an account")
+        acc_nam= input("Account name: ")
+        acc_num= input("Account number: ")
+        acc_typ= input("Account type: ")
+        if acc_typ == "savings":
+            account = SavingsAccount(acc_nam, acc_num)
+        else:
+            account = Account(acc_nam, acc_num)
+        print("Account created")
+        print(account)
+        self.__accounts.append(account)
+    def showAccounts(self):
+        print("Showing accounts")
+        for a in self.__accounts:
+            print(a)
+    def deposit(self):
